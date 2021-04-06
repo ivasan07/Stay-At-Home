@@ -1,2 +1,6 @@
 
- Juego desarrollado durante el confinamiento debido al coronarvirus para practicar desarrollo de videojuegos Android utilizando Unity
+ Juego desarrollado durante el confinamiento debido al coronarvirus para practicar  
+ desarrollo de videojuegos Android utilizando Unity.  
+   
+ CREDITOS:  
+ Iván Sánchez Míguez
